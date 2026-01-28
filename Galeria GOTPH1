@@ -1,0 +1,56 @@
+!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galleria GOTPH1</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #2b2b2b; /* grafite */
+            font-family: Arial, sans-serif;
+        }
+
+        .gallery {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+
+        /* Mobile */
+        @media (max-width: 600px) {
+            .gallery {
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="gallery">
+        <img src="website 0 zoom.jpg" alt="gotph1">
+        <img src="website 1.jpg" alt="gotph2">
+        <img src="website 2.jpg" alt="gotph3">
+        <img src="website 3.jpg" alt="gptph4">
+        <img src="website 4.jpg" alt="gotph5">
+        <img src="website 5.jpg" alt="gotph6">
+        <img src="website 6.jpg" alt="gotph7">
+        <img src="website 7.jpg" alt="gotph8">
+        <img src="website 8.jpg" alt="gotph9">
+        <img src="website 9.jpg" alt="gotph10">
+        <img src="website 10.jpg" alt="gotph11">
+        <img src="website 11.jpg" alt="gotph12">
+        <img src="website 12.jpg" alt="gotph13">
+        <img src="website 13.jpg" alt="gotph14">
+        <img src="elenco blog websites.jpg" alt="elenco blog websites">
+    </div>
+
+</body>
+</html>
